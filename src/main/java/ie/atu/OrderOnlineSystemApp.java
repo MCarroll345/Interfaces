@@ -8,6 +8,7 @@ public class OrderOnlineSystemApp {
                 new Burger("Chee",19,"Chee"),
                 new Pizza("Chee Peez",12,"Chee & Peez"),
                 new Salad("Chee Seed",19,"Chee & Seed"),
+                new Dessert("Chee cream",10,"Chee & cream"),
         };
 
         for(MenuItem menuItem : menuItems){
